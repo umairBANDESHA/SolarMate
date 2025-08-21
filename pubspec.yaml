@@ -1,0 +1,63 @@
+name: newsample
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  animated_loading_indicators: ^1.0.0+4
+  cached_network_image: ^3.4.1
+  cloud_firestore: ^5.6.6
+  connectivity_plus: ^6.1.4
+  dio: ^5.8.0+1
+  firebase_auth: ^5.5.2
+  flutter:
+    sdk: flutter
+  geolocator: ^14.0.0
+  google_fonts: ^6.2.1
+  google_sign_in: ^6.3.0
+  http: ^1.3.0
+  image_picker: ^1.1.2
+  lucide_icons: ^0.257.0
+  permission_handler: ^12.0.0+1
+  photo_view: ^0.15.0
+  shared_preferences: ^2.5.3
+  smooth_page_indicator: ^1.2.1
+  tuple: ^2.0.2
+  url_launcher: ^6.3.1
+  webview_flutter: ^4.12.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/LogoB.png" 
+
+flutter:
+  assets:
+    - assets/images/forgot.png
+    - assets/icon/google_icon.png
+    - assets/icon/facebook_icon.png
+    - assets/images/SOLARMATE2.gif
+    - assets/images/finalGif.gif
+    - assets/images/getStartedImg.png
+    - assets/getStarted2.png
+    - assets/images/password.jpg
+    - assets/mrktPrdoucts/b1.png
+    - assets/mrktPrdoucts/b2.png
+    - assets/mrktPrdoucts/b3.png
+    - assets/mrktPrdoucts/solarP_withoutBack.png
+
+    - assets/default_profile.png
+
+    - assets/Panels/mono_panel.png
+    - assets/Panels/poly_panel.png
+    - assets/Panels/thin_film_panel.png
+  uses-material-design: true

@@ -1,0 +1,363 @@
+
+ [
+    {
+      "id": 1,
+      "brand": "Huawei",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "98%",
+          "priceRange": "PKR 150,000 - PKR 180,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.5,
+              "comment": "Great inverter for the price. Works perfectly with my solar setup."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "97%",
+          "priceRange": "PKR 120,000 - PKR 140,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.2,
+              "comment": "Affordable and efficient for small homes."
+            }
+          ],
+          "tags": ["Best Value"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Fronius",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "98.5%",
+          "priceRange": "PKR 160,000 - PKR 190,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.7,
+              "comment": "Excellent performance and reliability."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "2.5kW",
+          "efficiency": "96.5%",
+          "priceRange": "PKR 100,000 - PKR 120,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.0,
+              "comment": "Good for small setups but slightly pricey."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "SolarEdge",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "10kW",
+          "efficiency": "99%",
+          "priceRange": "PKR 300,000 - PKR 350,000",
+          "warranty": "12 years",
+          "bestUseCase": "Large Home/Commercial",
+          "userReviews": [
+            {
+              "rating": 4.8,
+              "comment": "Perfect for commercial use. Highly efficient."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "97%",
+          "priceRange": "PKR 130,000 - PKR 150,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.3,
+              "comment": "Reliable and efficient for small homes."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "GoodWe",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "97.5%",
+          "priceRange": "PKR 140,000 - PKR 160,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.4,
+              "comment": "Good performance for the price."
+            }
+          ],
+          "tags": []
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "2.5kW",
+          "efficiency": "96%",
+          "priceRange": "PKR 90,000 - PKR 110,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.1,
+              "comment": "Affordable and works well for small setups."
+            }
+          ],
+          "tags": ["Best Value"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "SMA",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "98%",
+          "priceRange": "PKR 150,000 - PKR 170,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.6,
+              "comment": "Reliable and efficient. Great for medium homes."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "96.5%",
+          "priceRange": "PKR 110,000 - PKR 130,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.0,
+              "comment": "Good for small homes but a bit expensive."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Growatt",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "97%",
+          "priceRange": "PKR 130,000 - PKR 150,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.3,
+              "comment": "Affordable and efficient for medium homes."
+            }
+          ],
+          "tags": []
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "2.5kW",
+          "efficiency": "96%",
+          "priceRange": "PKR 80,000 - PKR 100,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.2,
+              "comment": "Great value for small setups."
+            }
+          ],
+          "tags": ["Best Value"]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Inverex",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "10kW",
+          "efficiency": "98.5%",
+          "priceRange": "PKR 280,000 - PKR 320,000",
+          "warranty": "10 years",
+          "bestUseCase": "Large Home/Commercial",
+          "userReviews": [
+            {
+              "rating": 4.7,
+              "comment": "Great for large setups. Highly recommended."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "97%",
+          "priceRange": "PKR 120,000 - PKR 140,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.1,
+              "comment": "Reliable and efficient for small homes."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Schneider Electric",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "97.5%",
+          "priceRange": "PKR 140,000 - PKR 160,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.5,
+              "comment": "Efficient and reliable. Worth the price."
+            }
+          ],
+          "tags": []
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "2.5kW",
+          "efficiency": "96%",
+          "priceRange": "PKR 90,000 - PKR 110,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.0,
+              "comment": "Good quality and affordable."
+            }
+          ],
+          "tags": ["Best Value"]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "ABB",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "5kW",
+          "efficiency": "98%",
+          "priceRange": "PKR 160,000 - PKR 190,000",
+          "warranty": "10 years",
+          "bestUseCase": "Medium Home",
+          "userReviews": [
+            {
+              "rating": 4.6,
+              "comment": "Efficient and reliable. Great for medium homes."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "96.5%",
+          "priceRange": "PKR 110,000 - PKR 130,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.2,
+              "comment": "Good for small homes but slightly expensive."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "Delta Electronics",
+      "variants": [
+        {
+          "variant": "Top-End",
+          "powerRating": "10kW",
+          "efficiency": "99%",
+          "priceRange": "PKR 290,000 - PKR 330,000",
+          "warranty": "12 years",
+          "bestUseCase": "Large Home/Commercial",
+          "userReviews": [
+            {
+              "rating": 4.9,
+              "comment": "Top-notch performance. Perfect for commercial use."
+            }
+          ],
+          "tags": ["Most Popular"]
+        },
+        {
+          "variant": "2-3 kW",
+          "powerRating": "3kW",
+          "efficiency": "97%",
+          "priceRange": "PKR 120,000 - PKR 140,000",
+          "warranty": "5 years",
+          "bestUseCase": "Small Home",
+          "userReviews": [
+            {
+              "rating": 4.3,
+              "comment": "Reliable and efficient for small homes."
+            }
+          ],
+          "tags": []
+        }
+      ]
+    }
+  ]
