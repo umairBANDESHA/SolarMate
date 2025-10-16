@@ -3,7 +3,11 @@
 SolarMate is a mobile application built with **Flutter** that helps users monitor and manage their solar energy system efficiently. It provides real-time insights, system status updates, and performance tracking with an easy-to-use interface.
 
 ---
+# Screnshots
 
+<img width="1471" height="1024" alt="solarmate" src="https://github.com/user-attachments/assets/24582583-befe-4717-99cf-029f62737eb6" />
+
+---
 ## ✨ Features
 - 📱 **User-friendly Interface** – Clean, simple, and responsive UI.
 - ☁️ **Cloud Integration** – Firebase backend for authentication and data storage.
